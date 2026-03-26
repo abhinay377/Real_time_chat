@@ -1,4 +1,4 @@
-tep 1 — Install Python
+step 1 — Install Python
 Go to https://www.python.org/downloads/
 Click the big yellow Download Python button
 Run the installer
