@@ -1,10 +1,3 @@
-"""
-config.py — Constants, paths, and logging setup for Chat With Co.
-
-All shared configuration lives here so every module imports
-from one place instead of duplicating values.
-"""
-
 import logging
 from pathlib import Path
 
