@@ -1,17 +1,3 @@
-/* ══════════════════════════════════════════════════════════════════
-   Chat With Co — Frontend v4
-   Features:
-   • WhatsApp-style login page (phone+password only visible)
-   • Loading splash screen
-   • Status stories (24h expiry, text/photo/video, viewer count)
-   • File type picker (photo, video, audio, document, file, location)
-   • Permanent call history
-   • Delete for everyone / delete for me
-   • Online status indicators
-   • Contact profile view with shared media
-   • Right-click message context menu
-   ══════════════════════════════════════════════════════════════════ */
-
 const SRV    = '';
 const WS_URL = `ws://${location.hostname}:8081`;
 
