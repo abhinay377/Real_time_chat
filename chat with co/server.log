@@ -1,0 +1,30 @@
+2026-03-22 11:53:36,413 [INFO] Database ready: c:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-22 11:53:36,417 [INFO] WebSocket server  ->  ws://localhost:8081
+2026-03-22 11:53:36,469 [INFO] HTTP server  ->  http://localhost:8080
+2026-03-22 11:53:36,469 [INFO] Uploads      ->  c:\Users\abhin\OneDrive\Desktop\chat with co\static\uploads
+2026-03-22 11:53:36,469 [INFO] Database     ->  c:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-22 11:54:37,963 [INFO] connection open
+2026-03-22 11:54:37,997 [INFO] WS connected: user=1 (Abhinay Bitla) ip=127.0.0.1
+2026-03-22 11:55:32,557 [INFO] WS disconnected: user=1
+2026-03-24 09:12:06,232 [INFO] Database ready: c:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-24 09:12:06,237 [INFO] WebSocket server  ->  ws://localhost:8081
+2026-03-24 09:12:06,305 [INFO] HTTP server  ->  http://localhost:8080
+2026-03-24 09:12:06,306 [INFO] Uploads      ->  c:\Users\abhin\OneDrive\Desktop\chat with co\static\uploads
+2026-03-24 09:12:06,306 [INFO] Database     ->  c:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-24 15:33:32,469 [INFO] Database ready: c:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-24 15:33:32,471 [WARNING] Install websockets: pip install websockets
+2026-03-24 15:33:32,667 [INFO] HTTP server  ->  http://localhost:8080
+2026-03-24 15:33:32,669 [INFO] Uploads      ->  c:\Users\abhin\OneDrive\Desktop\chat with co\static\uploads
+2026-03-24 15:33:32,669 [INFO] Database     ->  c:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-24 15:47:27,637 [INFO] Database ready: C:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-24 15:47:27,642 [INFO] WebSocket server  ->  ws://localhost:8081
+2026-03-24 15:47:27,731 [INFO] HTTP server  ->  http://localhost:8080
+2026-03-24 15:47:27,731 [INFO] Uploads      ->  C:\Users\abhin\OneDrive\Desktop\chat with co\static\uploads
+2026-03-24 15:47:27,731 [INFO] Database     ->  C:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-24 15:49:30,838 [INFO] connection open
+2026-03-24 15:49:30,859 [INFO] WS connected: user=2 (Test User) ip=127.0.0.1
+2026-03-24 15:54:32,362 [INFO] WS disconnected: user=2
+2026-03-25 09:48:19,724 [INFO] Database ready: C:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
+2026-03-25 09:48:19,798 [INFO] HTTP server  ->  http://localhost:8080
+2026-03-25 09:48:19,798 [INFO] Uploads      ->  C:\Users\abhin\OneDrive\Desktop\chat with co\static\uploads
+2026-03-25 09:48:19,799 [INFO] Database     ->  C:\Users\abhin\OneDrive\Desktop\chat with co\chatwithco.db
